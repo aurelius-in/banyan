@@ -15,14 +15,15 @@
 Location: Ancestral home exterior, early morning
 Lighting: Golden-hour natural light
 
-##	Shot Type	Description
 
-1	Wide Establishing	Anika’s rickshaw arriving at the gate. Banyan tree visible in distance.
-2	Medium	Anika steps out, silhouetted by light.
-3	Insert	Brass plaque: “Rao Family Estate, Est. 1911”
-4	Over-the-Shoulder	Anika looking through the gate at the tree and house beyond.
-5	Wide	She walks past the old swing. It creaks slightly.
-6	Close-up	Her face—holding back emotion.
+| #   | Shot Type         | Description                                                             |
+|-----|-------------------|-------------------------------------------------------------------------|
+| 1   | Wide              | Anika seated cross-legged under the banyan. AR shimmer surrounds her.   |
+| 2   | Medium            | Smart glasses reflect AR particles. Voice of Paati AI plays gently.     |
+| 3   | Close-up          | “You wore jasmine…” — Anika reacts. Shock turns to unease.              |
+| 4   | Insert (AR View)  | Floating jasmine blossom or silver bangle in golden particles.          |
+| 5   | Profile           | She whispers, “I never told anyone that…”                               |
+| 6   | Wide              | Light wind moves through tree branches as she looks up.                 |
 
 
 
