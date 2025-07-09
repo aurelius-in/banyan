@@ -1,6 +1,5 @@
 ---
 layout: default
-title: structure
 ---
 
 # Echoes of the Banyan 
