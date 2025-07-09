@@ -1,3 +1,8 @@
+---
+layout: default
+title: Shot List
+---
+
 #### Full shot list for the condensed 4–5 minute version of Echoes of the Banyan, broken down by scene and ordered for production efficiency:
 
 ---
