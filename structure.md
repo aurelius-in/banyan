@@ -1,6 +1,4 @@
 ---
-layout: default
----
 
 # Echoes of the Banyan 
 ##### A 4–5 minute short film preserving emotional depth and philosophical resonance).
