@@ -82,11 +82,3 @@ Sound motifs: Banyan leaves rustling, Paati’s voice, AR shimmer tones, Carnati
 Visual consistency: The banyan must anchor the film visually and thematically in at least 3 scenes
 
 Transitions: Use sound bridges and visual echoes (e.g., swing, jasmine, silver) to link time and memory
-
-
-
----
-
-Would you like this in a downloadable call sheet or PDF storyboard format next?
-
-
