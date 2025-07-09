@@ -93,6 +93,7 @@ Lighting: Soft golden light breaking through canopy
 | 27  | Sound Cut         | Tree rustles. Birdsong begins.                                          |
 | 28  | Final Wide        | She walks away. Tree fills the frame. Sun filters through.              |
 | 29  | Final Insert      | Title dissolves in among the branches: *ECHOES OF THE BANYAN*           |
+
 ---
 
 # 🎬 NOTES FOR PRODUCTION
