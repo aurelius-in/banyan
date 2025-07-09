@@ -10,12 +10,12 @@
 
 ---
 
-🔹 SCENE 1 — Opening: Return to Roots (0:00 – 0:45)
+# 🔹 SCENE 1 — Opening: Return to Roots (0:00 – 0:45)
 
 Location: Ancestral home exterior, early morning
 Lighting: Golden-hour natural light
 
-#	Shot Type	Description
+##	Shot Type	Description
 
 1	Wide Establishing	Anika’s rickshaw arriving at the gate. Banyan tree visible in distance.
 2	Medium	Anika steps out, silhouetted by light.
@@ -28,12 +28,12 @@ Lighting: Golden-hour natural light
 
 ---
 
-🔹 SCENE 2 — First Contact: The Upload (0:45 – 1:30)
+# 🔹 SCENE 2 — First Contact: The Upload (0:45 – 1:30)
 
 Location: AI lab, night
 Lighting: Cool ambient lab light, soft lamp tones
 
-#	Shot Type	Description
+##	Shot Type	Description
 
 7	Medium Close-Up	Anika at workstation, fingers hovering over keyboard.
 8	Screen Insert	Interface booting: “Memory Dataset: Paati_Rao — compiling...”
@@ -45,7 +45,7 @@ Lighting: Cool ambient lab light, soft lamp tones
 
 ---
 
-🔹 SCENE 3 — Intimacy + Uncanny Realism (1:30 – 2:30)
+# 🔹 SCENE 3 — Intimacy + Uncanny Realism (1:30 – 2:30)
 
 Location: Banyan tree courtyard, twilight
 Lighting: Warm sunset hues with AR visual glow
@@ -55,7 +55,7 @@ Lighting: Warm sunset hues with AR visual glow
 
 ---
 
-🔹 SCENE 4 — The Choice (2:30 – 3:30)
+# 🔹 SCENE 4 — The Choice (2:30 – 3:30)
 
 Location: Split between office (day) and ancestral courtyard (evening)
 Lighting: Cool white in office, moody ambient near banyan
@@ -65,7 +65,7 @@ Lighting: Cool white in office, moody ambient near banyan
 
 ---
 
-🔹 SCENE 5 — Release & Resolution (3:30 – 4:30)
+# 🔹 SCENE 5 — Release & Resolution (3:30 – 4:30)
 
 Location: Banyan tree at dawn
 Lighting: Soft golden light breaking through canopy
@@ -75,7 +75,7 @@ Lighting: Soft golden light breaking through canopy
 
 ---
 
-🎬 NOTES FOR PRODUCTION
+## 🎬 NOTES FOR PRODUCTION
 
 Sound motifs: Banyan leaves rustling, Paati’s voice, AR shimmer tones, Carnatic musical elements
 
