@@ -1,16 +1,15 @@
 #### Full shot list for the condensed 4–5 minute version of Echoes of the Banyan, broken down by scene and ordered for production efficiency:
 
-
 ---
 
-### 🎥 SHOT LIST — ECHOES OF THE BANYAN (Condensed Version)
+# 🎥 SHOT LIST — ECHOES OF THE BANYAN (Condensed Version)
 
 4–5 Minute Philosophical Sci-Fi Short
 
 
 ---
 
-# 🔹 SCENE 1 — Opening: Return to Roots (0:00 – 0:45)
+## 🔹 SCENE 1 — Opening: Return to Roots (0:00 – 0:45)
 
 Location: Ancestral home exterior, early morning
 Lighting: Golden-hour natural light
@@ -29,7 +28,7 @@ Lighting: Golden-hour natural light
 
 ---
 
-# 🔹 SCENE 2 — First Contact: The Upload (0:45 – 1:30)
+## 🔹 SCENE 2 — First Contact: The Upload (0:45 – 1:30)
 
 Location: AI lab, night
 Lighting: Cool ambient lab light, soft lamp tones
@@ -44,37 +43,54 @@ Lighting: Cool ambient lab light, soft lamp tones
 
 ---
 
-# 🔹 SCENE 3 — Intimacy + Uncanny Realism (1:30 – 2:30)
+## 🔹 SCENE 3 — Intimacy + Uncanny Realism (1:30 – 2:30)
 
 Location: Banyan tree courtyard, twilight
 Lighting: Warm sunset hues with AR visual glow
 
-| # | Wide              | Anika seated cross-legged under the banyan. AR shimmer surrounds her.       | | # | Medium            | Smart glasses reflect AR particles. Voice of Paati AI plays gently.         | | # | Close-up          | “You wore jasmine…” — Anika reacts. Shock turns to unease.                  | | # | Insert (AR View)  | Floating jasmine blossom or silver bangle in golden particles.              | | # | Profile           | She whispers, “I never told anyone that…”                                   | | # | Wide              | Light wind moves through tree branches as she looks up.                     |
-
+| #   | Shot Type         | Description                                                             |
+|-----|-------------------|-------------------------------------------------------------------------|
+| 12  | Wide              | Anika seated cross-legged under the banyan. AR shimmer surrounds her.   |
+| 13  | Medium            | Smart glasses reflect AR particles. Voice of Paati AI plays gently.     |
+| 14  | Close-up          | “You wore jasmine…” — Anika reacts. Shock turns to unease.              |
+| 15  | Insert (AR View)  | Floating jasmine blossom or silver bangle in golden particles.          |
+| 16  | Profile           | She whispers, “I never told anyone that…”                               |
+| 17  | Wide              | Light wind moves through tree branches as she looks up.                 |
 
 ---
 
-# 🔹 SCENE 4 — The Choice (2:30 – 3:30)
+## 🔹 SCENE 4 — The Choice (2:30 – 3:30)
 
 Location: Split between office (day) and ancestral courtyard (evening)
 Lighting: Cool white in office, moody ambient near banyan
 
-| # | Medium (Office)   | CTO speaks: “Imagine a world where no one dies.”                            | | # | Insert (Tablet)   | Echo: Legacy Edition mockup on sleek device.                              | | # | Flash Insert      | Paati AI laughing under banyan.                                             | | # | Wide (Courtyard)  | Anika alone, holding shutdown device. Wind rising.                          | | # | Close-up          | Anika’s hand gripping the shutdown button, thumb hovering.                  |
-
+| #   | Shot Type         | Description                                                             |
+|-----|-------------------|-------------------------------------------------------------------------|
+| 18  | Medium (Office)   | CTO speaks: “Imagine a world where no one dies.”                        |
+| 19  | Insert (Tablet)   | Echo: Legacy Edition mockup on sleek device.                            |
+| 20  | Flash Insert      | Paati AI laughing under banyan.                                         |
+| 21  | Wide (Courtyard)  | Anika alone, holding shutdown device. Wind rising.                      |
+| 22  | Close-up          | Anika’s hand gripping the shutdown button, thumb hovering.              |
 
 ---
 
-# 🔹 SCENE 5 — Release & Resolution (3:30 – 4:30)
+## 🔹 SCENE 5 — Release & Resolution (3:30 – 4:30)
 
 Location: Banyan tree at dawn
 Lighting: Soft golden light breaking through canopy
 
-| # | Wide Low Angle    | Anika kneels by the roots of the tree, framed in early light.               | | # | ECU (Device)      | Device in hand. Finger presses the shutdown.                               | | # | Visual FX Insert  | AR shimmer particles dissolve like petals in the wind.                      | | # | Medium            | Her expression softens. Quiet tears.                                        | | # | Sound Cut         | Tree rustles. Birdsong begins.                                              | | # | Final Wide        | She walks away. Tree fills the frame. Sun filters through.                  | | # | Final Insert      | Title dissolves in among the branches: ECHOES OF THE BANYAN               |
-
-
+| #   | Shot Type         | Description                                                             |
+|-----|-------------------|-------------------------------------------------------------------------|
+| 23  | Wide Low Angle    | Anika kneels by the roots of the tree, framed in early light.           |
+| 24  | ECU (Device)      | Device in hand. Finger presses the shutdown.                            |
+| 25  | Visual FX Insert  | AR shimmer particles dissolve like petals in the wind.                  |
+| 26  | Medium            | Her expression softens. Quiet tears.                                    |
+| 27  | Sound Cut         | Tree rustles. Birdsong begins.                                          |
+| 28  | Final Wide        | She walks away. Tree fills the frame. Sun filters through.              |
+| 29  | Final Insert      | Title dissolves in among the branches: *ECHOES OF THE BANYAN*           |
 ---
 
-## 🎬 NOTES FOR PRODUCTION
+# 🎬 NOTES FOR PRODUCTION
 
 Sound motifs: Banyan leaves rustling, Paati’s voice, AR shimmer tones, Carnatic musical elements
 
