@@ -1,4 +1,6 @@
 ---
+layout: default
+---
 
 # ECHOES OF THE BANYAN
 *Short Film Script (Condensed: 4–5 min)*  
