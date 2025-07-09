@@ -34,15 +34,13 @@ Lighting: Golden-hour natural light
 Location: AI lab, night
 Lighting: Cool ambient lab light, soft lamp tones
 
-##	Shot Type	Description
-
-7	Medium Close-Up	Anika at workstation, fingers hovering over keyboard.
-8	Screen Insert	Interface booting: “Memory Dataset: Paati_Rao — compiling...”
-9	Over-Shoulder	Holographic display flickering with photo/audio fragments.
-10	ECU (Extreme CU)	Anika’s eyes widen as the voice says, “Anika? Kanna?”
-11	Side Profile	Single tear forming as she answers, “Paati?”
-
-
+| #   | Shot Type        | Description                                                             |
+|-----|------------------|-------------------------------------------------------------------------|
+| 7   | Medium Close-Up  | Anika at workstation, fingers hovering over keyboard.                   |
+| 8   | Screen Insert    | Interface booting: “Memory Dataset: Paati_Rao — compiling...”           |
+| 9   | Over-Shoulder    | Holographic display flickering with photo/audio fragments.              |
+| 10  | ECU (Extreme CU) | Anika’s eyes widen as the voice says, “Anika? Kanna?”                   |
+| 11  | Side Profile     | Single tear forming as she answers, “Paati?”                            |
 
 ---
 
